@@ -1,6 +1,6 @@
 # recycle-bin-parallels
 
-Parallels removed the option to have a recycle bin in windows for shared folders from version 19, you can read about it here:
+Parallels removed the option to have a recycle bin in windows for shared folders, you can read about it here:
 https://docs.parallels.com/pdfm-ug-20/parallels-desktop-for-mac-20-users-guide/use-windows-on-your-mac/setting-how-windows-works-with-macos/sharing-items-between-macos-and-windows/sharing-files-and-folders#how-deleting-files-from-shared-folders-works-in-windows
 
 How I fixed it:

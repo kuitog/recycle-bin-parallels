@@ -61,9 +61,14 @@ So you have 2 options:
    
    A. You can do this for windows only via "sharpkeys" installed on windows (free)
    
+![SharpKeys_2025-01-21 12-58-34](https://github.com/user-attachments/assets/4bd061fe-7e55-4be4-b9d6-4f9007c3fa7c)
+
    B. For windows + mac via bettermouse installed on mac (paid)
 
-2. You can change in the autohotkey script the trigger key to any combination you like.
+   <img width="330" alt="example" src="https://github.com/user-attachments/assets/fdb8adb4-8c51-40cb-9185-04983fe8b3df" />
+
+
+3. You can change in the autohotkey script the trigger key to any combination you like.
    
    Note: if you need to change the script, you have to download the source code, edit it and compile it in autohotkey v2
    
@@ -82,3 +87,8 @@ So you have 2 options:
 
     Here you have the basic hotkeys list:
     https://www.autohotkey.com/docs/v2/howto/WriteHotkeys.htm#Basic_Hotkeys
+
+    Then you can recompile the .exe file with autohotkey v2:
+
+   ![explorer_2025-01-21 13-01-49](https://github.com/user-attachments/assets/ea386457-b1a6-44a9-83bb-93503d952cd0)
+

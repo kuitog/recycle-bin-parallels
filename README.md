@@ -10,7 +10,9 @@ How I fixed it:
 
 Created an autohotkey v2 script.
 
-When you press the trigger shortcut:
+The script is binded to the del key, read on to see how to configure it.
+
+When you press the assigned keyboard key:
 
 1.If you have files or folders selected they will be instantly moved without confirmation to a special directory (C:/123/) which acts as your recycle bin.
 You will find all the discarded files there.

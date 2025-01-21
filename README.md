@@ -28,6 +28,8 @@ But if you are editing text it will send the "del" command.
 
 So combining 1+2 I have exactly recreated the windows "del" button functions but with the difference that files are being sent to the special directory instead of the recycle bin.
 
+For convenience: create a link on the desktop to the 123 folder, so that you can also drag and drop files to your 123 folder in case you need to.
+
 NOTE: This script is triggered by the "del" key on the keyboard by default. You can change it (read on).
 
 
